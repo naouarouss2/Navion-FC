@@ -1,0 +1,3 @@
+You can directly flash the Arducopter firmware.
+
+You can also use the files in [Configuration Files folder](Firmware/FC configuration files) to generate firmware for other vehicles by using [this guide](https://ardupilot.org/dev/docs/porting.html) like ArduPlane, ArduRover...

@@ -70,6 +70,10 @@ That's why I made my flight controller extremely modular and versatile.
 
 This flight controller will run a custom ported version of the **[Ardupilot firmware](https://github.com/ArduPilot/ardupilot)**
 
+## Disclaimer ⚠️
+
+This project is still untested.
+
 ## Credits ❤️
 Project made by : **Oussama NAOUAR**
 

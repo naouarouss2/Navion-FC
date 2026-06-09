@@ -30,21 +30,21 @@ That's why I made my flight controller extremely modular and versatile.
 
 ## How does it work ?
 
-You attach all of your ESCs and Servos to the PWM outputs.
+-  You attach all of your ESCs and Servos to the PWM outputs.
 
-Attach neopixel strips to the top neopixel headers (You should power them externally).
+-  Attach neopixel strips to the top neopixel headers (You should power them externally).
 
-Connect a standard Pixhawk 2.4.8 (or similar) GPS module (You need to swap the connectors for JST-XH connectors) to the GPS and I²C headers.
+-  Connect a standard Pixhawk 2.4.8 (or similar) GPS module (You need to swap the connectors for JST-XH connectors) to the GPS and I²C headers.
 
-Connect the battery to the battery header.
+-  Connect the battery to the battery header.
 
-Connect the RC receiver to the PPM/SBUS header (and configure it accordingly later).
+-  Connect the RC receiver to the PPM/SBUS header (and configure it accordingly later).
 
-Connect a telemetry module to the USART2 header.
+-  Connect a telemetry module to the USART2 header.
 
-You can connect other UART accessories like a Lidar to the UART2 and UART3 headers.
+-  You can connect other UART accessories like a Lidar to the UART2 and UART3 headers.
 
-Then you configure your peripherals in **Mission Planner**, setup your flight controller, plan a mission, and you should be good to go !
+-  Then you configure your peripherals in **Mission Planner**, setup your flight controller, plan a mission, and you should be good to go !
 
 ## PCB 
 
